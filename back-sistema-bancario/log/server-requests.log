@@ -5,3 +5,6 @@
 0:0:0:0:0:0:0:1 - - [10/out/2017:22:42:09 +0000] "GET /recurso/ws HTTP/1.1" 200 33 "-" "curl/7.55.1" 70
 0:0:0:0:0:0:0:1 - - [10/out/2017:22:42:32 +0000] "GET /recurso/ws HTTP/1.1" 200 114 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 68
 0:0:0:0:0:0:0:1 - - [10/out/2017:22:42:33 +0000] "GET /favicon.ico HTTP/1.1" 404 43 "http://localhost:7000/recurso/ws" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 19
+0:0:0:0:0:0:0:1 - - [17/out/2017:20:59:48 +0000] "GET /recurso/ws HTTP/1.1" 200 33 "-" "curl/7.55.1" 78
+0:0:0:0:0:0:0:1 - - [17/out/2017:21:03:05 +0000] "GET /recurso/ws HTTP/1.1" 200 114 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 49
+0:0:0:0:0:0:0:1 - - [17/out/2017:21:03:05 +0000] "GET /favicon.ico HTTP/1.1" 404 43 "http://localhost:7000/recurso/ws" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36" 26

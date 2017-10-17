@@ -5,6 +5,7 @@
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
             <name>back-sistema-bancario</name>
             <source-roots>
+                <root id="src.SistemaBancarioComDao.dir"/>
                 <root id="src.dir"/>
             </source-roots>
             <test-roots/>
